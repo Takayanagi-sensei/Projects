@@ -1,1 +1,1 @@
-# Projects
+# Projects done during Bsc.
